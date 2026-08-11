@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "chimabank",
+  "version": "${version}",
+  "name": "ちま銀行 (Chima Bank)",
+  "description": "ちま銀行券(百円・千円・五千円・壱万円)と、銀行家シリーズの防具・武器(ネザライト相当)を追加。銀行員の村人とダイヤ・鉄・紙幣を売買できるMOD",
+  "authors": [
+    "you"
+  ],
+  "contact": {},
+  "license": "CC0-1.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.chimabank.ChimaBank"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

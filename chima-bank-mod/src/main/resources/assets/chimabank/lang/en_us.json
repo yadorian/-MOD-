@@ -1,0 +1,22 @@
+{
+  "item.chimabank.note_100": "Chima Bank Note (100 Yen)",
+  "item.chimabank.note_1000": "Chima Bank Note (1000 Yen)",
+  "item.chimabank.note_5000": "Chima Bank Note (5000 Yen)",
+  "item.chimabank.note_10000": "Chima Bank Note (10000 Yen)",
+
+  "item.chimabank.banker_sword": "Banker's Sword",
+  "item.chimabank.banker_pickaxe": "Banker's Pickaxe",
+  "item.chimabank.banker_axe": "Banker's Axe",
+  "item.chimabank.banker_shovel": "Banker's Shovel",
+  "item.chimabank.banker_hoe": "Banker's Hoe",
+  "item.chimabank.banker_bow": "Banker's Bow",
+  "item.chimabank.banker_trident": "Banker's Trident",
+  "item.chimabank.banker_helmet": "Banker's Helmet",
+  "item.chimabank.banker_chestplate": "Banker's Chestplate",
+  "item.chimabank.banker_leggings": "Banker's Leggings",
+  "item.chimabank.banker_boots": "Banker's Boots",
+  "item.chimabank.banker_elytra": "Banker's Elytra",
+
+  "block.chimabank.money_counter": "Money Counter",
+  "entity.minecraft.villager.chimabank.banker": "Banker"
+}

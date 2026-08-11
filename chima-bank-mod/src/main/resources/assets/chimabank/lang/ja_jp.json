@@ -1,0 +1,22 @@
+{
+  "item.chimabank.note_100": "ちま銀行券 百円",
+  "item.chimabank.note_1000": "ちま銀行券 千円",
+  "item.chimabank.note_5000": "ちま銀行券 五千円",
+  "item.chimabank.note_10000": "ちま銀行券 壱万円",
+
+  "item.chimabank.banker_sword": "銀行家の剣",
+  "item.chimabank.banker_pickaxe": "銀行家のツルハシ",
+  "item.chimabank.banker_axe": "銀行家の斧",
+  "item.chimabank.banker_shovel": "銀行家のシャベル",
+  "item.chimabank.banker_hoe": "銀行家のクワ",
+  "item.chimabank.banker_bow": "銀行家の弓",
+  "item.chimabank.banker_trident": "銀行家のトライデント",
+  "item.chimabank.banker_helmet": "銀行家のヘルメット",
+  "item.chimabank.banker_chestplate": "銀行家のチェストプレート",
+  "item.chimabank.banker_leggings": "銀行家のレギンス",
+  "item.chimabank.banker_boots": "銀行家のブーツ",
+  "item.chimabank.banker_elytra": "銀行家のエリトラ",
+
+  "block.chimabank.money_counter": "両替カウンター",
+  "entity.minecraft.villager.chimabank.banker": "銀行員"
+}

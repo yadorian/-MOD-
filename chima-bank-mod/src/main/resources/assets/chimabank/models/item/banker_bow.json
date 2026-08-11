@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bow",
+    "layer1": "chimabank:item/bank_stamp_overlay"
+  }
+}
